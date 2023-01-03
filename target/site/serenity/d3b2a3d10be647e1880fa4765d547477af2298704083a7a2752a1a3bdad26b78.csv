@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"CRUD test stores","Creating stores","SUCCESS","2023-01-03T21:47:37.261Z[Europe/London]","0.0","0.13"
+"CRUD test stores","Get store","SUCCESS","2023-01-03T21:47:37.393Z[Europe/London]","0.0","0.07"
+"CRUD test stores","Update store","SUCCESS","2023-01-03T21:47:37.467Z[Europe/London]","0.0","0.14"
+"CRUD test stores","Delete the store and verify if the store is deleted!","SUCCESS","2023-01-03T21:47:37.610Z[Europe/London]","0.0","0.07"

@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"CRUD test","Creating product","SUCCESS","2023-01-03T21:47:27.748Z[Europe/London]","0.0","6.83"
+"CRUD test","Get single product","SUCCESS","2023-01-03T21:47:34.627Z[Europe/London]","0.0","0.1"
+"CRUD test","update product","SUCCESS","2023-01-03T21:47:34.740Z[Europe/London]","0.0","0.09"
+"CRUD test","Delete the product and verify if the product is deleted!","SUCCESS","2023-01-03T21:47:34.833Z[Europe/London]","0.0","0.16"
